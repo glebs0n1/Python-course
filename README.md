@@ -1,7 +1,7 @@
 
 # Python-course
 My begging in Python learning 
-####Getting started 
+### Getting started 
 1) Scientific Computing with Python Course <br>
 2) Machine Learning with Python Course <br>
 3) Data Analysis with Python Course<br>
