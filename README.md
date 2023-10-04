@@ -7,7 +7,7 @@ My begging in Python learning
 3) Data Analysis with Python Course<br>
 
 ## *Scientific Computing with Python
-<br>Arithmetic Formatter	
+Arithmetic Formatter	
 <br>Time Calculator	
 <br>Budget App	
 <br>Polygon Area Calculator	
