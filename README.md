@@ -1,6 +1,6 @@
 
 # Python-course
-My begging in Python learning 
+My beginning in Python learning to get Certificat and basic knowledge 
 ### Getting started 
 1) Scientific Computing with Python Course <br>
 2) Machine Learning with Python Course <br>
